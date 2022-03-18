@@ -3,7 +3,7 @@ from unittest import case
 from clases import Barco
 from clases.Tablero import *
 from clases.Barco import *
-from Conventions import *
+from clases.Conventions import *
 from juego import CASO_AGUA, CASO_NO_JUGADO, CASO_TOCADO
 
 

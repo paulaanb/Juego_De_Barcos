@@ -1,6 +1,10 @@
+from decimal import ConversionSyntax
+from itertools import repeat
+from random import choice
 from clases.Tablero import *
 from clases.Case import *
 from clases.Conventions import *
+from juego import HORIZONTAL, ORIENTACIONES
 
 instances = []
 casillas_ocupadas = set()

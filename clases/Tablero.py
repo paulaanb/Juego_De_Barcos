@@ -1,6 +1,10 @@
+
+from clases import Case, Conventions
+from clases.Barco import generar_barcos
 from clases.Case import *
 from clases.Barco import *
 from Conventions import *
+from clases.Case import generar_casillas
 
 
 
