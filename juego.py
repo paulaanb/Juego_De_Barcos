@@ -3,6 +3,9 @@ import sys
 from itertools import cycle, chain, product, repeat
 from functools import reduce
 from random import shuffle, choice, random
+import clases
+from clases import Case
+from clases import Tablero
 from clases.Case import *
 from clases.Barco import *
 from clases.Tablero import *
